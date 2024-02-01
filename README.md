@@ -1,4 +1,4 @@
-# Weather App
+# Weather App 🌤️
 
 A simple weather app where user can put the location & get the weather details
 
